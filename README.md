@@ -29,3 +29,4 @@ Ma'lumotlar localStorage'da saqlanadi (demo rejim, backendsiz).
 Mahsulot rasmlari: public/images/ papkasida.
 # DIDU-wear
 # DIDU-pastel
+# DIDU-pastel
